@@ -2,13 +2,15 @@
 
 ## **Summary**
 
-Put a very high-level summary of the project.
+"SaaS software, becoming a Software as a Medical Device (SaMD) for high stress users. We provide stress relief via our software and VR integration and simulations." 
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Beethoven Meginnis
+- Ethan Forrest
+- Peter Owolabi
+- Ryan Martinez
+- Tommy Nyugen
 
 ## **Client Partner Information**
 
@@ -16,8 +18,7 @@ Put a very high-level summary of the project.
 WHATEVER COMPANY or CORRESPONDENCE
 
 ### *People:*
-- Jane Fonda
-- Jane Lynch
+- Dr. Alicia Mckoy
 
 ## **Links**
 
