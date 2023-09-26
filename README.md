@@ -1,4 +1,4 @@
-# CapstoneProjectTemplate /* Replace this line with the title of your project */
+# Next Gen Emotion Computing
 
 ## **Summary**
 
