@@ -1,6 +1,6 @@
 # Domain Model
   
-[./image1.png](image)
+[https://github.com/eforrest8/NextGenEmotionComputing/blob/master/Design/image1.png](image)
 
 Note that many of these components are likely already specified by the existing software. Our design will be adapted once we have access to the code.
 
