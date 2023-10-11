@@ -2,11 +2,11 @@
 
 Existing Peak Mind Structure: 
   
-[](image)
+[./image2.png](image)
 
 VR Data Visualization System: 
 
-[](image)
+[./image3.png](image)
 
 AWS API: Biometric sample data will be retrieved from Peak Mind’s AWS database. 
 
