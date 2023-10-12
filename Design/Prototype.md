@@ -1,2 +1,6 @@
 # Prototype
-[https://www.figma.com/file/yIyHRikyhZBhr4Vnl2xKm8/Next-Gen-Emotion-Computing?type=design&node-id=0%3A1&mode=design&t=4eKDoiOT1H9d4Nhr-1](This link will lead to the prototype on Figma.)
+Per discussion with our client, we are reusing their existing Figma prototype for the purposes of this project.
+
+[This link will lead to the prototype on Figma.](https://www.figma.com/file/1fNpgf7UKVJZiFxw7GPrn3/Dashboard-new-UIUX?type=design&node-id=49-874&mode=design&t=1KuLIpnsQsriXt3J-0)
+
+[Here is a link to a video on Youtube walking through the prototype.](https://youtu.be/mkMkjJ9EuP8)
