@@ -82,7 +82,7 @@ The project follows Unity’s default folder structure: Assets, Packages, and Pr
 - If you want to run the unit tests without code coverage you can just run `pytest`.
 
 ### Running the project
-- Open the project then open a terminal at the directory. You can run the project by running `docker compose up`. This will create a Docker container that has an image for a MySQL database, Backend, and Frontend When the container is running the output will look something like this.
+- Open the project then open a terminal at the directory. You can run the project by running `docker compose up`. This will create a Docker container that has an image for a MySQL database, Backend, and Frontend When the container is running the output will look something like this. If you recieve and error about a missing .env file, you can create a blank .env file to temporarily relieve this issue. See below for the contents of the .env file. 
 ![Docker cli terminal output](./images/DockerTerminalOutput.png)
 
 - The Frontend will run on port 3000, the Backend will run on port 8080, and the MySQL database will run on port 3306.
