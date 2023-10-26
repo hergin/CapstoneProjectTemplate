@@ -90,7 +90,7 @@ The project follows Unity’s default folder structure: Assets, Packages, and Pr
   - If you recieve an error regarding port 3306, attempt to end task MySQL.exe in Task Manager, restart, and try again.
 
 - You can stop the container by pressing `Control + C` in the terminal instance where the compose up command was ran. Or by stopping it in the Docker Desktop application.
-  - If you are having issues with caching older versions of the code when restarting the Docker container after making changes you can run the command `docker compose up --build --force-reacreate`. This should rebuild the container and ignore all caches in Docker when the container starts.
+  - If you are having issues with caching older versions of the code when restarting the Docker container after making changes you can run the command `docker compose up --build --force-recreate`. This should rebuild the container and ignore all caches in Docker when the container starts.
 
 ### Frontend
 
@@ -103,6 +103,8 @@ The web app follows React folder structure standards. There is a public folder, 
 ### Backend
 
 The api is built using Flask Python. To install all of the dependencies you can run `make install-dev` if you have and use `Make` or you could run the command in the make file: `pip install -r requirements/common.txt -r requirements/develop.txt` (you can replace `pip` with `pip3` if that is that Python package manager you prefer). 
+
+If you recieve an error regarding building the wheels of MySQL Client, attempt to install [MariaDB Connector](https://mariadb.com/downloads/connectors/), product C Connector and latest version. After installing, copy bin, lib, and include folders of the install to a new folder that you will make called mariadb-connector in the root level of the C: Drive. 
 
 The database can be initialized in the dev environment by running the commands `flask db migrate` then `flask db upgrade` which with use the `flask-migrate` package to automatically create the database schema defined by `Models` in the api code.
 
