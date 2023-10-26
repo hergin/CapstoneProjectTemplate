@@ -87,7 +87,7 @@ The project follows Unity’s default folder structure: Assets, Packages, and Pr
 
 - The Frontend will run on port 3000, the Backend will run on port 8080, and the MySQL database will run on port 3306.
   - To connect to the data do so through a socket connection with the username `peak-vis` and the password `dev`.
-  - If you recieve an error regarding port 3306, attempt to end task MySQL.exe, restart, and try again.
+  - If you recieve an error regarding port 3306, attempt to end task MySQL.exe in Task Manager, restart, and try again.
 
 - You can stop the container by pressing `Control + C` in the terminal instance where the compose up command was ran. Or by stopping it in the Docker Desktop application.
   - If you are having issues with caching older versions of the code when restarting the Docker container after making changes you can run the command `docker compose up --build --force-reacreate`. This should rebuild the container and ignore all caches in Docker when the container starts.
