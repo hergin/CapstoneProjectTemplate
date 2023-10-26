@@ -1,4 +1,5 @@
 # Domain Model
+## No updates were made prior to Update Design Items Assignment (10/26/23)
   
 ![Domain Model](./image1.png)
 
