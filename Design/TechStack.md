@@ -1,4 +1,6 @@
 # Tech Stack
+## No updates were made prior to Update Design Items Assignment (10/26/23)
+
 Note: We plan to carry over most, if not all, of the previous project's tech stack.
 ## Web App
 * React (Link to https://reactjs.org)
