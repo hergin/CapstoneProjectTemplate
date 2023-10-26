@@ -106,7 +106,7 @@ The api is built using Flask Python. To install all of the dependencies you can 
 
 If you recieve an error regarding building the wheels of MySQL Client, attempt to install [MariaDB Connector](https://mariadb.com/downloads/connectors/), product C Connector and latest version. After installing, copy bin, lib, and include folders of the install to a new folder that you will make called mariadb-connector in the root level of the C: Drive. 
 
-The database can be initialized in the dev environment by running the commands `flask db migrate` then `flask db upgrade` which with use the `flask-migrate` package to automatically create the database schema defined by `Models` in the api code.
+The database can be initialized by running the commands `flask db migrate` then `flask db upgrade` in the command line in the Backend folder which use the `flask-migrate` package to automatically create the database schema defined by `Models` in the api code.
 
 The file structure for the project is as follows:
 ```
