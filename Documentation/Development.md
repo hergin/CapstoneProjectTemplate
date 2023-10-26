@@ -53,7 +53,8 @@ The project follows Unity’s default folder structure: Assets, Packages, and Pr
 
 ![Unity-Data-Store-URL-Variable](./images/UnityDataStoreUrl.png)
 
--In order to actually save data to an AWS bucket you will have to add the base URL of the ApiGateway API created by running CDK deploy as explain in the [Deployment Documentation](./Deployment.md). However, this is not required for any kind of unit testing or changes that need to be made for any other part of the project only if you need to actually test the upload.
+-The following information regarding deployment is presumably correct, but not confirmed via testing at this point in time (10/26/23). 
+-In order to actually save data to an AWS bucket you will have to add the base URL of the ApiGateway API created by running CDK deploy as explain in the [Deployment Documentation](./Deployment.md). However, this is not required for any kind of unit testing or changes that need to be made for any other part of the project only if you need to actually test the upload. 
 
 ![HP-Omnicept=Simulator](./images/HpOmniSimulator.png)
 
