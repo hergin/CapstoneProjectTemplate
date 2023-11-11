@@ -37,12 +37,12 @@ WHATEVER COMPANY or CORRESPONDENCE
 
 ## User Documentation
 
-- [User.md](./User.md)
+- [User.md](./Documentation/User.md)
 
 ## Development Documentation
 
-- [Development.md](./Development.md)
+- [Development.md](./Documentation/Development.md)
 
 ## Deployment Documentation
 
-- [Deployment.md](./Deployment.md)
+- [Deployment.md](./Documentation/Deployment.md)
