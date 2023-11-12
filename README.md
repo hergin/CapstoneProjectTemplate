@@ -35,3 +35,14 @@ WHATEVER COMPANY or CORRESPONDENCE
 - [Php Backend](https://www.github.com/WHEREEVER_THE_PHP_CODE_IS)
 - Others if more.
 
+## User Documentation
+
+- [User.md](./Documentation/User.md)
+
+## Development Documentation
+
+- [Development.md](./Documentation/Development.md)
+
+## Deployment Documentation
+
+- [Deployment.md](./Documentation/Deployment.md)
