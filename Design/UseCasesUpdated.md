@@ -7,15 +7,15 @@
       * Backend evaluates user data to select appropriate response
       * Response is provided via web app/VR device
 * UC2. (Corresponds to BR2) Access visualized employees stress biometric data for analysis
-   * Data analysts will want to be able to access both real time and recorded visualizations of employee stress biometric data. A live graph will be present, along with a recording of said graph as it evolves. A final chart will demonstrate how the graph changed over the duration of treatment/exposure. 
-   * Data Analysts
+   * Data Scientists will want to be able to access both real time and recorded visualizations of employee stress biometric data. A live graph will be present, along with a recording of said graph as it evolves. A final chart will demonstrate how the graph changed over the duration of treatment/exposure. 
+   * Data Scientists
    * Program Flow:
       * Participant data is collected via VR headset and stored in AWS backend
       * Analysts request data via web app
       * Data is retrieved from AWS backend, visualized, and displayed
 * UC3. (Corresponds to BR1, BR2) Identify most common workplace stressors
-   * The cumulative data collected and utilized by data analysts will allow the owner to determine the most common workplace stressors in each workplace that is analyzed. Recorded historic biometric data will play a key role in this identification process. Pattern analysis will certainly be necessary to accurately convey biometric data into real world, explainable stressors. 
-   * Data Analysts
+   * The cumulative data collected and utilized by data Scientists will allow the owner to determine the most common workplace stressors in each workplace that is analyzed. Recorded historic biometric data will play a key role in this identification process. Pattern analysis will certainly be necessary to accurately convey biometric data into real world, explainable stressors. 
+   * Data Scientists
    * Program Flow:
       * Biometric data is collected from users via VR headset and stored in AWS backend
       * Analysts evaluate data to identify common stressors
