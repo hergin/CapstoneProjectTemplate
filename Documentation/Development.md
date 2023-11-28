@@ -30,7 +30,7 @@ HP Omnicept SDK is only compatible with Windows and requires a workaround for ot
 
  - Then Finally click install
 
- ## Replicating via Docker
+ ## Setting up the project locally
  ---
 
 The project follows Unity’s default folder structure: Assets, Packages, and ProjectSettings. A .gitignore and README.md are included at the root for version control and presentation. Within the Assets folder are files and folders for the HP Omnisept SDK called Glia.
@@ -65,7 +65,7 @@ The project follows Unity’s default folder structure: Assets, Packages, and Pr
 
 ![Disabling HPGlia Prefab](./images/DisableHPGlia.png)
 
-## Setting up the web app locally
+## Repicating via Docker
 ---
 
 ### Requirements
