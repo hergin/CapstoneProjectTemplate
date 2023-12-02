@@ -1,14 +1,16 @@
-# CapstoneProjectTemplate /* Replace this line with the title of your project */
+# Next Gen Emotion Computing
 
 ## **Summary**
 
-Put a very high-level summary of the project.
+"SaaS software, becoming a Software as a Medical Device (SaMD) for high stress users. We provide stress relief via our software and VR integration and simulations." 
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Beethoven Meginnis
+- Ethan Forrest
+- Peter Owolabi
+- Ryan Martinez
+- Tommy Nyugen
 
 ## **Client Partner Information**
 
@@ -16,8 +18,7 @@ Put a very high-level summary of the project.
 WHATEVER COMPANY or CORRESPONDENCE
 
 ### *People:*
-- Jane Fonda
-- Jane Lynch
+- Dr. Alicia Mckoy
 
 ## **Links**
 
@@ -25,6 +26,7 @@ WHATEVER COMPANY or CORRESPONDENCE
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
+- [First Iteration Features (Project Management Tool)](https://github.com/users/eforrest8/projects/1)
 - ... any other documents/links you see need
 
 ## **Code Repositories**
@@ -33,3 +35,14 @@ WHATEVER COMPANY or CORRESPONDENCE
 - [Php Backend](https://www.github.com/WHEREEVER_THE_PHP_CODE_IS)
 - Others if more.
 
+## User Documentation
+
+- [User.md](./Documentation/User.md)
+
+## Development Documentation
+
+- [Development.md](./Documentation/Development.md)
+
+## Deployment Documentation
+
+- [Deployment.md](./Documentation/Deployment.md)
