@@ -50,6 +50,8 @@
 These tests are validated by the client.
 
 | Date | Feature | Client Feedback | Action Required | Resolved (Y/N) |
+|------|---------|-----------------|-----------------|----------------|
+||Feature1||||
 
 ---
 
